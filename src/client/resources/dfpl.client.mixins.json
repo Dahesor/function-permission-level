@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.example.mixin.client",
+	"package": "dahesor.dfpl.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"ExampleClientMixin"
+      "IntegratedServerMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
