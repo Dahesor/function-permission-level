@@ -6,7 +6,7 @@ The mod is _intended_ for data pack developers that are making data packs that g
 
 ## Notes
 
-This mod only changes the permission level in integrated servers, and thus only affects single player and LAN worlds. Installing it on servers has on effects.
+This mod only changes the permission level in integrated servers, and thus only affects single player and LAN worlds. Installing it on servers has no effects.
 
 On servers, you can simply change the `function-permission-level` option in `server.properties` to achieve the same effect.
 
